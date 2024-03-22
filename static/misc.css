@@ -1,0 +1,18 @@
+#aliveTime {
+	color: white;
+}
+a {
+	color: yellow;
+}
+a:hover {
+	color: #ffff24;
+}
+a:visited {
+	color: #ffffc6;
+}
+body {
+	font-family: "被爱判处终身孤寂", "萝莉体", "HarmonyOS Sans SC", "微软雅黑";
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
