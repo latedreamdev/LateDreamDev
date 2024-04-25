@@ -73,7 +73,8 @@ $.ajax({
         mini: music_fixed === true ? true:music_mini,
         lrcType: 3,
         preload:"auto",
-        loop: music_loop
+        loop: music_loop,
+        theme: player_color
 
         
     });

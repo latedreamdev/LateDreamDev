@@ -2,7 +2,7 @@ body {
 	font-size: 18px;
 	/* color: #6c767d; */
 	background-color: deeppink;
-	background-image: url(https://i0.imgs.ovh/2024/03/17/enXR3.png);
+	background-image: url("https://cdn.jsdelivr.net/gh/XiaozhiSans/imgbed/XiaozhiSans/background.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -144,11 +144,12 @@ strike {
 
 .photo-bg {
 	/* background-image: url(assets/background.jpg); */
-	background-image: url(https://i0.imgs.ovh/2024/03/21/eGih2.jpeg);
+	background-image: url("https://cdn.jsdelivr.net/gh/XiaozhiSans/imgbed/XiaozhiSans/avatar.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 10px 0px 0px 10px;
+	opacity: 0.7;
 }
 
 footer p, footer div {
@@ -198,7 +199,7 @@ footer p, footer div {
 
 @media(max-width: 767px) {
 	body {
-		background-image: url(https://i0.imgs.ovh/2024/03/21/eayT5.png);
+		background-image: url("https://cdn.jsdelivr.net/gh/XiaozhiSans/imgbed/XiaozhiSans/115323172_p0.png");
 	}
 	.container {
 		position: relative;
@@ -210,7 +211,7 @@ footer p, footer div {
 		border-radius: 10px 10px 0px 0px;
 	}
 	.photo-bg:hover {
-		opacity: 0;
+		/* opacity: 0; */
 	}
 	.card {
 		padding: 20px;

@@ -14,18 +14,21 @@
 		<link rel="stylesheet" type="text/css" href="https://cdn.staticfile.org/font-awesome/5.12.1/css/all.min.css">
 		<link rel="stylesheet" type="text/css" href="./static/style.css?v=1.1">
 		<link rel="stylesheet" type="text/css" href="./static/misc.css">
+		<link rel="stylesheet" type="text/css" href="https://fastly.jsdelivr.net/gh/DIYgod/APlayer@1.10.1/dist/APlayer.min.css">
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/DIYgod/APlayer@1.10.1/dist/APlayer.min.js"></script>
 		<script> // 不要动这个script，不然一言会卡住！！
 			// 音乐设置
 			let meting_music_api = "https://api.mizore.cn/meting/api.php";// meting api
-			let music_server = "tencent";
-			let music_type = "song";
-			let music_id = "000cRl0l37lgf3";
-			let music_order = "list";
-			let music_mini = false;
-			let music_fixed = false;
+			let music_server = "netease";
+			let music_type = "playlist";
+			let music_id = "3204190542";
+			let music_order = "random";
+			let music_mini = true;
+			let music_fixed = true;
 			let music_volume = 0.7;
 			let music_autoplay = true;
-			let music_loop = "one";
+			let music_loop = "loop";
+			let player_color = "#ff1493";
 			// TODO 一言设置
 		</script>
 		<!-- end 自定义设置 -->
@@ -64,7 +67,7 @@
 
 					<footer>
 						<p>
-							Copyright 2024 <a href="https://github.com/XiaozhiSans" target="_blank">XiaozhiSans</a> | <a href="?" target="_blank">下北泽HOMO备00114514号-19</a> | 友链：<a href="https://butian103.github.io/FreeDayO-NetWork/">FDO官网</a>
+							Copyright 2024 <a href="https://github.com/XiaozhiSans" target="_blank">XiaozhiSans</a> | <a href="https://icp.gov.moe/?keyword=20241144" target="_blank">萌ICP备20241144号</a> | 
 							<br>Powered by <a href="https://github.com/XiaozhiSans/XiaozhiSans/deployments/github-pages" target="_blank" rel="">GitHub Pages</a> | Theme: <a href="https://github.com/kaygb/KZHomePage">KZHomePage</a> (Modified) | 存活时间：<i id="aliveTime">Loading...</i>
 						</p>
 					</footer>
@@ -73,9 +76,12 @@
 
 		</div>
 
+		<div id="aplayer-fixed"></div>
+
 		<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
 		<script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
 		<script defer src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 		<script src="./static/layer-v3.5.1/layer/layer.js"></script>
 
 		<script src="./static/main.js"></script>
