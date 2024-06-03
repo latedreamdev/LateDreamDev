@@ -6,8 +6,8 @@
 ---
 |	平台		|	链接/ID											| | 			| 		 |
 | ------------ | ------------------------------------------------------ |-| ------------- | ---- |
-| 📺 Bilibili | [@XiaozhiSans ↗️](https://space.bilibili.com/1988506301) | | Discord		| [@XiaozhiSans](#) |
-| 🐧 QQ			| [3276839942 ↗️](https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u) | | 🎮 Xbox		| [XiaozhiSans](#) |
+| 📺 Bilibili | [@XiaozhiSans ↗️](https://space.bilibili.com/1988506301) | | Discord		| @XiaozhiSans |
+| 🐧 QQ			| [3276839942 ↗️](https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u) | | 🎮 Xbox		| XiaozhiSans |
 
 
 <details><summary><h3>📊 常用语言</h3></summary>
