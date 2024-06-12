@@ -38,13 +38,12 @@ $('.kz-nav-btn').on('click', function() {
 
 console.log(
     "\n" +
-      " %c KZHomePage v1.2.0 (Modified) by XiaozhiSans" +
-      " %c https://xsawa.dev.tc/XiaozhiSans/ " +
-      "\n" +
+      " %c KZHomePage v1.2.0-Modified by XiaozhiSans" +
+      " %c https://xsawa.dev.tc/XiaozhiSans/ \n" +
       "\n",
-    "color: #fff; background: #fd79a8; padding:5px 0;",
-    "background: #FFF; padding:5px 0;"
-  );
+    "color: #fff; background: #fd79a8; padding: 5px 0;",
+    "background: #fff; padding: 5px 0;"
+);
 
 fetch('https://v1.hitokoto.cn?c=a&c=b&c=c&c=f')
     .then(response => response.json())
@@ -52,5 +51,4 @@ fetch('https://v1.hitokoto.cn?c=a&c=b&c=c&c=f')
       const hitokoto = document.getElementById('hitokoto_text')
       hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
       hitokoto.innerText = data.hitokoto
-    })
-    .catch(console.error)
+    }).catch(console.error)

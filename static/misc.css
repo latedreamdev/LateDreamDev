@@ -1,14 +1,27 @@
+.aplayer-info {
+	background-color: #000 !important;
+	color: #fff;
+}
+.aplayer-miniswitcher {
+	background-color: skyblue !important;
+}
 #aliveTime {
-	color: white;
+	color: #fff;
+}
+.fa-brands {
+	transition: transform 2s;
+}
+.fa-brands:hover {
+	transform: rotate(360deg);
 }
 a {
-	color: yellow;
+	color: #ff0;
 }
 a:hover {
-	color: #ffff24;
+	color: #ff2;
 }
 a:visited {
-	color: #ffffc6;
+	color: #ff6;
 }
 body {
 	font-family: "被爱判处终身孤寂", "萝莉体", "HarmonyOS Sans SC", "微软雅黑";
