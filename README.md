@@ -1,8 +1,11 @@
 😴 摆烂王
 ---
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=XiaozhiSans&theme=dark&langs_count=5&show_icons=true&count_private=true&title_color=000&text_color=22f&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)](#)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XiaozhiSans&theme=synthwave&locale=zh_Hans&card_width=380)
+
 ![](https://github-readme-stats.vercel.app/api?username=XiaozhiSans&show_icons=true&count_private=true&title_color=22f&text_color=000&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XiaozhiSans&theme=synthwave&locale=zh_Hans)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=XiaozhiSans&theme=dark&langs_count=5&show_icons=true&count_private=true&title_color=000&text_color=22f&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)
 
 
 💬 社交媒体
