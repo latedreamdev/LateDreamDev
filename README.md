@@ -1,6 +1,9 @@
 😴 摆烂王
 ---
-[![github数据](https://github-readme-stats.vercel.app/api?username=XiaozhiSans&show_icons=true&theme=dark&locale=cn)](#)	[![贡献数据](https://streak-stats.demolab.com/?user=XiaozhiSans&theme=dark&locale=zh)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=XiaozhiSans&theme=dark&langs_count=5&show_icons=true&count_private=true&title_color=000&text_color=22f&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)](#)
+![](https://github-readme-stats.vercel.app/api?username=XiaozhiSans&show_icons=true&count_private=true&title_color=22f&text_color=000&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XiaozhiSans&theme=synthwave&locale=zh_Hans)
+
 
 💬 社交媒体
 ---
@@ -10,8 +13,3 @@
 | 🐧 QQ			| [3276839942 ↗️](https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u) |	| 🎮 Steam / Xbox		| XiaozhiSans |
 | 📪 Email		|	[xiaozhisans-awa@outlook.com](mailto:xiaozhisans-awa@outlook.com)				|	|------------------------|-------------|
 
-
-<details><summary><h3>📊 常用语言</h3></summary>
-
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs?username=XiaozhiSans&theme=dark&langs_count=5&locale=cn)](#)
-</details>
