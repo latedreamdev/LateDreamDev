@@ -1,18 +1,7 @@
-😴 摆烂王
----
+![Cards](https://cards.jerryz.com.cn/api?img=5&date=2025-01-01&str=+2025+年&qq=3276839942&gitee=%40xiaozhisans&github=%40XiaozhiSans&bilibili=%40XiaozhiSans&telegram=%40XiaozhiSans&microsoft=%40XiaozhiSans&email=xiaozhisans%40qq.com&quote=%28￣﹃￣%29+不能熬夜&color=172%2C172%2C255%2C1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XiaozhiSans&theme=synthwave&locale=zh_Hans&card_width=380)
+<div align="right">
 
-![](https://github-readme-stats.vercel.app/api?username=XiaozhiSans&show_icons=true&count_private=true&title_color=22f&text_color=000&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)
+<sup>v0.1.14-simple-awa | [回到旧版](./README.old.md) | [站外主页](https://xsawa.dev.tc/XiaozhiSans/)</sup>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=XiaozhiSans&theme=dark&langs_count=5&show_icons=true&count_private=true&title_color=000&text_color=22f&layout=compact&bg_color=50,f00,0f0,00f&locale=cn)
-
-
-💬 社交媒体
----
-|	社交平台		|	链接/ID												|							| 	媒体平台					| 															 |
-| ------------ | ------------------------------------------------------ | --------------------------- | ----------------------- | -------------------------------------------------------- |
-| Discord		| 		@XiaozhiSans									|								| 📺 Bilibili			| [@XiaozhiSans ↗️](https://space.bilibili.com/1988506301) |
-| 🐧 QQ			| [3276839942 ↗️](https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u) |	| 🎮 Steam / Xbox		| XiaozhiSans |
-| 📪 Email		|	[xiaozhisans-awa@outlook.com](mailto:xiaozhisans-awa@outlook.com)				|	|------------------------|-------------|
-
+</div>
