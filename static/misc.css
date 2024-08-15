@@ -5,6 +5,12 @@
 .aplayer-miniswitcher {
 	background-color: skyblue !important;
 }
+.titimg {
+	position: fixed;
+	top: 0; left: 0;
+	width: 40vw;
+	height: auto;
+}
 #aliveTime {
 	color: #fff;
 }

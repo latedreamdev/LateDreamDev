@@ -50,5 +50,5 @@ fetch('https://v1.hitokoto.cn?c=a&c=b&c=c&c=f')
     .then(data => {
       const hitokoto = document.getElementById('hitokoto_text')
       hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-      hitokoto.innerText = data.hitokoto
+      hitokoto.title = hitokoto.innerText = data.hitokoto
     }).catch(console.error)

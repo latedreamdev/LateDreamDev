@@ -60,7 +60,7 @@ h1, h2, h3, h4 {
 
 .card {
 	background-color: #ff1493cc;
-	border-radius: 0px 10px 10px 0px;
+	border-radius: 0px 10px 10px 0px !important;
 	color: #00e687;
 	padding: 50px 30px 0px;
 }
@@ -142,7 +142,7 @@ strike {
 
 .photo-bg {
 	/* background-image: url(assets/background.jpg); */
-	background-image: url(https://q.qlogo.cn/headimg_dl?dst_uin=3276839942&spec=640);
+	background-image: url("https://q.qlogo.cn/headimg_dl?dst_uin=3276839942&spec=640");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -201,7 +201,7 @@ footer p, footer div {
 
 @media(max-width: 767px) {
 	body {
-		background-image: url("https://cdn.jsdelivr.net/gh/XiaozhiSans/imgbed/XiaozhiSans/115323172_p0.png");
+		background-image: url("../Image_1711975812823.png");
 	}
 	.container {
 		position: relative;
