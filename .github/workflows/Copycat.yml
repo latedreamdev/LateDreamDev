@@ -9,12 +9,10 @@ jobs:
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: /
-        dst_path: /source/XiaozhiSans/
+        dst_path: /source/
         dst_owner: XiaozhiSans
         dst_repo_name: blog
         dst_branch: main
         src_branch: main
         clean: false
-        commit_message: 'Merge XiaozhiSans:main into blog:main'
-        username: Xia0zhiSans
-        email: 171530684+Xia0zhiSans@users.noreply.github.com
+        commit_message: 'Merge XiaozhiSans into blog'
