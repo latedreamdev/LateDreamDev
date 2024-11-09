@@ -9,8 +9,8 @@
 <details>
 <summary>统计信息</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LateDream-awa&theme=dark&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=iLateDreami&theme=dark&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LateDream-awa&theme=dark&langs_count=5&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iLateDreami&theme=dark&langs_count=5&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
 
 </details>
