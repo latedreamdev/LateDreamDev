@@ -2,15 +2,15 @@
 
 <div align="right">
 
-<sup>v0.1.15-simple-awa <!--| [回到旧版](./README.old.md) --> | [站外主页](https://latedream.us.kg/XiaozhiSans/)</sup>
+<sup>v0.1.16-simple-awa <!--| [回到旧版](./README.old.md) --> | [站外主页](https://latedream.us.kg/XiaozhiSans/)</sup>
 
 </div>
 
 <details>
 <summary>统计信息</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iLateDreami&theme=dark&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=iLateDreami&theme=dark&show_icons=true&count_private=true&layout=compact&locale=cn" style="width: 50%;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iLateDreami&theme=dark&langs_count=5&show_icons=true&count_private=true&layout=compact&locale=cn" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iLateDreami&theme=dark&langs_count=5&show_icons=true&count_private=true&layout=compact&locale=cn" style="width: 50%;" />
 
 </details>
