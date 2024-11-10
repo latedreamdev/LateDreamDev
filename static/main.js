@@ -1,6 +1,6 @@
 console.log(
   `
-  %c KZHomePage v1.2.0 Modified by XiaozhiSans %c https://xsawa.us.kg/XiaozhiSans/
+  %c KZHomePage v1.2.0 Modified by LateDream %c https://latedream.us.kg/LateDream/
 `,
     "color: #fff; background: #fd79a8; padding: 5px 0;",
     "background: #fff; padding: 5px 0;"

@@ -1,5 +1,5 @@
 @font-face {
-	font-family: "ZCool Regular";
+	font-family: "ZCool Happy";
 	src: url('./站酷快乐体2020修订版1.woff2') format('woff2');
 }
 @keyframes rotate {
@@ -40,7 +40,7 @@ a:visited {
 	color: #ff6;
 }
 body {
-	font-family: "ZCool Regular", sans-serif;
+	font-family: "ZCool Happy", sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
