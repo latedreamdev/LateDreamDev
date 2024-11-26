@@ -2,7 +2,7 @@
 
 <div align="right">
 
-<sup>v0.1.16-simple-awa <!--| [回到旧版](./README.old.md) --> | [站外主页](https://latedream.us.kg/XiaozhiSans/)</sup>
+<sup>v0.1.16-simple-awa <!--| [回到旧版](./README.old.md) --> | [站外主页](https://latedream.us.kg/about/)</sup>
 
 </div>
 
